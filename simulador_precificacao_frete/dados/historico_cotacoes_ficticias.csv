@@ -1,0 +1,241 @@
+﻿cotacao_id,origem,destino,distancia_km,peso_kg,tipo_carga,modal,transportadora,preco_cobrado_brl
+COT-0001,Belo Horizonte,Salvador,1947,13973.6,Carga geral,Rodoviário,Transportadora Delta,2542.12
+COT-0002,Belo Horizonte,Rio de Janeiro,1449,14357.4,Carga geral,Rodoviário,Transportadora Delta,2364.45
+COT-0003,Curitiba,Brasília,2774,9106.6,Carga geral,Marítimo,Transportadora Beta,2083.69
+COT-0004,Curitiba,Salvador,1020,3914.8,Carga geral,Rodoviário,Transportadora Delta,1320.32
+COT-0005,Santos,Rio de Janeiro,482,8418.4,Frágil,Rodoviário,Transportadora Gama,1069.47
+COT-0006,Campinas,Porto Alegre,1124,261.7,Carga geral,Rodoviário,Transportadora Alfa,1067.56
+COT-0007,Curitiba,Porto Alegre,1420,14949.4,Carga geral,Rodoviário,Transportadora Alfa,2038.04
+COT-0008,São Paulo,Salvador,2637,11532.9,Refrigerada,Rodoviário,Transportadora Delta,3595.18
+COT-0009,Curitiba,Salvador,1754,6534.7,Carga geral,Rodoviário,Transportadora Delta,2081.9
+COT-0010,Santos,Brasília,709,14703.3,Carga geral,Marítimo,Transportadora Alfa,1425.67
+COT-0011,Santos,Salvador,1303,12192.3,Carga geral,Rodoviário,Transportadora Gama,1622.97
+COT-0012,São Paulo,Porto Alegre,2330,17422.5,Carga geral,Rodoviário,Transportadora Alfa,2925.13
+COT-0013,Santos,Recife,350,2412.5,Frágil,Marítimo,Transportadora Gama,803.07
+COT-0014,Belo Horizonte,Salvador,858,3504.7,Frágil,Rodoviário,Transportadora Alfa,1154.44
+COT-0015,Campinas,Recife,2717,10276.0,Carga geral,Rodoviário,Transportadora Gama,2717.01
+COT-0016,Curitiba,Rio de Janeiro,2717,8445.8,Carga geral,Rodoviário,Transportadora Delta,2989.9
+COT-0017,São Paulo,Rio de Janeiro,2045,594.8,Carga geral,Marítimo,Transportadora Beta,2706.31
+COT-0018,Curitiba,Porto Alegre,313,15716.9,Carga geral,Rodoviário,Transportadora Gama,1208.31
+COT-0019,Belo Horizonte,Porto Alegre,2539,13786.2,Frágil,Rodoviário,Transportadora Gama,2562.51
+COT-0020,Campinas,Rio de Janeiro,1655,14599.0,Carga geral,Rodoviário,Transportadora Delta,2646.58
+COT-0021,Belo Horizonte,Rio de Janeiro,2438,14284.8,Carga geral,Aéreo,Transportadora Gama,6006.63
+COT-0022,São Paulo,Brasília,2556,3270.3,Carga geral,Marítimo,Transportadora Beta,1730.54
+COT-0023,Belo Horizonte,Porto Alegre,471,17139.1,Carga geral,Marítimo,Transportadora Beta,1395.97
+COT-0024,Belo Horizonte,Salvador,2527,13382.7,Carga geral,Rodoviário,Transportadora Delta,3136.15
+COT-0025,Campinas,Porto Alegre,2028,1283.4,Carga geral,Rodoviário,Transportadora Delta,2081.38
+COT-0026,Curitiba,Brasília,2223,12192.7,Refrigerada,Rodoviário,Transportadora Delta,3390.43
+COT-0027,Campinas,Brasília,1771,3692.3,Carga geral,Rodoviário,Transportadora Beta,1718.73
+COT-0028,Belo Horizonte,Recife,1701,10887.8,Carga geral,Rodoviário,Transportadora Alfa,1978.48
+COT-0029,Campinas,Brasília,437,8411.8,Refrigerada,Rodoviário,Transportadora Delta,1336.69
+COT-0030,Curitiba,Rio de Janeiro,1929,13764.3,Refrigerada,Aéreo,Transportadora Beta,7383.48
+COT-0031,Belo Horizonte,Recife,1974,15804.6,Carga geral,Marítimo,Transportadora Delta,2246.41
+COT-0032,São Paulo,Rio de Janeiro,1273,4587.2,Carga geral,Rodoviário,Transportadora Alfa,1379.82
+COT-0033,Campinas,Rio de Janeiro,925,3029.9,Refrigerada,Rodoviário,Transportadora Gama,1235.18
+COT-0034,Santos,Recife,2415,14618.0,Refrigerada,Rodoviário,Transportadora Gama,2594.11
+COT-0035,Curitiba,Salvador,1117,14439.9,Frágil,Aéreo,Transportadora Alfa,4881.38
+COT-0036,Santos,Porto Alegre,2373,2073.3,Refrigerada,Aéreo,Transportadora Beta,4582.64
+COT-0037,Curitiba,Recife,1276,2368.0,Refrigerada,Marítimo,Transportadora Delta,1503.75
+COT-0038,Santos,Salvador,1142,10987.5,Carga geral,Rodoviário,Transportadora Gama,1504.6
+COT-0039,Belo Horizonte,Goiânia,1950,5922.7,Refrigerada,Aéreo,Transportadora Delta,5663.62
+COT-0040,São Paulo,Rio de Janeiro,1036,11732.0,Carga geral,Rodoviário,Transportadora Alfa,1654.88
+COT-0041,Belo Horizonte,Porto Alegre,536,8244.4,Refrigerada,Rodoviário,Transportadora Beta,1374.87
+COT-0042,Belo Horizonte,Rio de Janeiro,618,14958.4,Carga geral,Rodoviário,Transportadora Gama,1304.3
+COT-0043,Campinas,Brasília,2019,5970.8,Carga geral,Rodoviário,Transportadora Alfa,1967.62
+COT-0044,Curitiba,Salvador,2465,1442.0,Refrigerada,Rodoviário,Transportadora Beta,2469.69
+COT-0045,Belo Horizonte,Rio de Janeiro,1829,16319.7,Carga geral,Rodoviário,Transportadora Alfa,2467.89
+COT-0046,Santos,Salvador,2408,7854.9,Frágil,Rodoviário,Transportadora Alfa,2288.21
+COT-0047,Santos,Rio de Janeiro,1888,13987.7,Frágil,Rodoviário,Transportadora Gama,1940.81
+COT-0048,Curitiba,Rio de Janeiro,723,13646.4,Carga geral,Rodoviário,Transportadora Gama,1349.46
+COT-0049,Campinas,Goiânia,1823,2307.1,Carga geral,Aéreo,Transportadora Delta,4211.06
+COT-0050,São Paulo,Goiânia,1194,16908.3,Frágil,Aéreo,Transportadora Delta,6730.84
+COT-0051,Campinas,Salvador,633,13682.9,Refrigerada,Aéreo,Transportadora Alfa,4716.48
+COT-0052,São Paulo,Porto Alegre,1018,648.4,Frágil,Rodoviário,Transportadora Beta,1180.48
+COT-0053,Belo Horizonte,Salvador,154,6897.2,Frágil,Marítimo,Transportadora Gama,877.19
+COT-0054,Curitiba,Rio de Janeiro,179,17873.4,Carga geral,Aéreo,Transportadora Delta,5434.64
+COT-0055,Campinas,Recife,792,1698.0,Frágil,Rodoviário,Transportadora Alfa,1019.21
+COT-0056,Santos,Salvador,2666,13519.5,Carga geral,Marítimo,Transportadora Beta,2533.68
+COT-0057,Belo Horizonte,Goiânia,495,8547.6,Carga geral,Rodoviário,Transportadora Alfa,939.67
+COT-0058,Santos,Goiânia,769,1069.1,Frágil,Marítimo,Transportadora Beta,1116.3
+COT-0059,Curitiba,Brasília,267,4127.9,Carga geral,Rodoviário,Transportadora Beta,648.84
+COT-0060,Belo Horizonte,Rio de Janeiro,553,15495.5,Carga geral,Rodoviário,Transportadora Alfa,1455.5
+COT-0061,Belo Horizonte,Brasília,804,5129.0,Carga geral,Rodoviário,Transportadora Gama,990.65
+COT-0062,Belo Horizonte,Porto Alegre,2651,15728.2,Carga geral,Rodoviário,Transportadora Delta,3053.19
+COT-0063,Santos,Recife,2703,4190.5,Frágil,Rodoviário,Transportadora Delta,2845.3
+COT-0064,Santos,Porto Alegre,1572,777.5,Carga geral,Rodoviário,Transportadora Delta,1578.07
+COT-0065,Santos,Brasília,2567,15861.4,Refrigerada,Aéreo,Transportadora Beta,8253.47
+COT-0066,Belo Horizonte,Goiânia,897,12282.5,Refrigerada,Rodoviário,Transportadora Delta,2088.12
+COT-0067,São Paulo,Goiânia,2215,16554.2,Carga geral,Rodoviário,Transportadora Alfa,2813.26
+COT-0068,Santos,Rio de Janeiro,893,1693.4,Frágil,Rodoviário,Transportadora Gama,1003.17
+COT-0069,São Paulo,Brasília,1678,12666.0,Refrigerada,Marítimo,Transportadora Delta,2071.74
+COT-0070,Campinas,Porto Alegre,106,15039.2,Carga geral,Rodoviário,Transportadora Gama,1100.56
+COT-0071,São Paulo,Salvador,1537,1222.4,Refrigerada,Rodoviário,Transportadora Delta,2032.74
+COT-0072,Curitiba,Porto Alegre,1383,12982.0,Carga geral,Aéreo,Transportadora Beta,5177.86
+COT-0073,Belo Horizonte,Salvador,1186,16781.4,Carga geral,Rodoviário,Transportadora Gama,1834.02
+COT-0074,São Paulo,Salvador,2155,10698.4,Carga geral,Rodoviário,Transportadora Alfa,2313.31
+COT-0075,Santos,Brasília,2106,13517.6,Refrigerada,Rodoviário,Transportadora Beta,3065.08
+COT-0076,São Paulo,Porto Alegre,2329,14749.6,Refrigerada,Rodoviário,Transportadora Gama,2627.9
+COT-0077,São Paulo,Salvador,885,13410.0,Carga geral,Rodoviário,Transportadora Beta,1668.85
+COT-0078,Belo Horizonte,Salvador,266,14891.4,Carga geral,Aéreo,Transportadora Beta,4532.03
+COT-0079,Belo Horizonte,Porto Alegre,2136,667.3,Carga geral,Aéreo,Transportadora Gama,3296.85
+COT-0080,Santos,Salvador,2346,12214.2,Carga geral,Rodoviário,Transportadora Gama,2285.05
+COT-0081,Campinas,Brasília,1818,7781.9,Frágil,Rodoviário,Transportadora Beta,2059.95
+COT-0082,Belo Horizonte,Porto Alegre,765,17064.8,Frágil,Rodoviário,Transportadora Gama,1717.13
+COT-0083,Campinas,Recife,939,12355.5,Carga geral,Aéreo,Transportadora Beta,4456.36
+COT-0084,Santos,Porto Alegre,303,7593.4,Frágil,Aéreo,Transportadora Alfa,2604.72
+COT-0085,Belo Horizonte,Goiânia,1927,6751.7,Carga geral,Rodoviário,Transportadora Beta,2224.59
+COT-0086,Santos,Goiânia,2265,1067.9,Refrigerada,Aéreo,Transportadora Delta,5273.71
+COT-0087,Campinas,Rio de Janeiro,487,4468.6,Refrigerada,Rodoviário,Transportadora Gama,969.31
+COT-0088,Belo Horizonte,Brasília,886,9467.9,Refrigerada,Rodoviário,Transportadora Beta,1055.96
+COT-0089,Campinas,Brasília,2419,4650.8,Carga geral,Rodoviário,Transportadora Beta,2343.4
+COT-0090,Campinas,Goiânia,2277,2507.9,Carga geral,Aéreo,Transportadora Alfa,4208.44
+COT-0091,Curitiba,Recife,860,11195.3,Refrigerada,Aéreo,Transportadora Gama,3796.3
+COT-0092,Campinas,Brasília,2535,8832.0,Carga geral,Rodoviário,Transportadora Beta,2705.01
+COT-0093,Santos,Rio de Janeiro,2319,3168.3,Carga geral,Marítimo,Transportadora Alfa,1559.22
+COT-0094,São Paulo,Brasília,1181,8564.5,Carga geral,Rodoviário,Transportadora Alfa,1539.84
+COT-0095,São Paulo,Brasília,2161,3354.0,Carga geral,Rodoviário,Transportadora Delta,2240.65
+COT-0096,Santos,Goiânia,1912,16632.4,Frágil,Rodoviário,Transportadora Alfa,2678.9
+COT-0097,São Paulo,Salvador,2753,13911.1,Carga geral,Marítimo,Transportadora Gama,2042.83
+COT-0098,São Paulo,Rio de Janeiro,846,632.4,Frágil,Marítimo,Transportadora Beta,1000.47
+COT-0099,Campinas,Salvador,2160,12227.4,Carga geral,Marítimo,Transportadora Gama,1905.97
+COT-0100,Curitiba,Porto Alegre,1130,385.0,Refrigerada,Rodoviário,Transportadora Gama,1228.87
+COT-0101,Curitiba,Recife,2669,6093.5,Carga geral,Rodoviário,Transportadora Delta,2925.3
+COT-0102,Campinas,Brasília,2727,16707.5,Carga geral,Marítimo,Transportadora Beta,2263.63
+COT-0103,Campinas,Recife,602,108.8,Refrigerada,Rodoviário,Transportadora Beta,928.97
+COT-0104,São Paulo,Goiânia,230,3862.9,Carga geral,Marítimo,Transportadora Gama,703.62
+COT-0105,Curitiba,Goiânia,1242,14679.9,Carga geral,Rodoviário,Transportadora Alfa,1942.96
+COT-0106,Santos,Salvador,507,1565.0,Carga geral,Aéreo,Transportadora Delta,2206.04
+COT-0107,Belo Horizonte,Brasília,1673,8212.1,Frágil,Rodoviário,Transportadora Gama,1852.26
+COT-0108,Belo Horizonte,Salvador,643,6839.8,Refrigerada,Rodoviário,Transportadora Gama,1188.98
+COT-0109,São Paulo,Rio de Janeiro,979,12859.1,Carga geral,Aéreo,Transportadora Delta,5414.37
+COT-0110,Belo Horizonte,Porto Alegre,242,8092.9,Carga geral,Rodoviário,Transportadora Delta,893.03
+COT-0111,Belo Horizonte,Brasília,1733,3154.8,Carga geral,Rodoviário,Transportadora Beta,1750.61
+COT-0112,Campinas,Goiânia,2504,4950.1,Carga geral,Rodoviário,Transportadora Delta,2538.75
+COT-0113,Campinas,Rio de Janeiro,2409,8561.0,Refrigerada,Rodoviário,Transportadora Delta,3263.22
+COT-0114,Santos,Recife,2667,152.7,Carga geral,Rodoviário,Transportadora Delta,2406.83
+COT-0115,Curitiba,Rio de Janeiro,1134,14636.9,Carga geral,Rodoviário,Transportadora Beta,1777.91
+COT-0116,Belo Horizonte,Brasília,1189,7090.0,Carga geral,Rodoviário,Transportadora Alfa,1397.38
+COT-0117,Campinas,Recife,1643,11665.7,Carga geral,Rodoviário,Transportadora Gama,1881.24
+COT-0118,Curitiba,Salvador,292,9930.9,Carga geral,Rodoviário,Transportadora Delta,1009.89
+COT-0119,São Paulo,Rio de Janeiro,1542,14714.4,Carga geral,Rodoviário,Transportadora Gama,2217.19
+COT-0120,Campinas,Porto Alegre,1212,6732.4,Carga geral,Rodoviário,Transportadora Beta,1489.89
+COT-0121,São Paulo,Rio de Janeiro,2340,16633.3,Carga geral,Rodoviário,Transportadora Delta,3058.69
+COT-0122,Curitiba,Recife,594,844.7,Carga geral,Rodoviário,Transportadora Delta,675.96
+COT-0123,Santos,Recife,2644,3124.5,Carga geral,Rodoviário,Transportadora Alfa,1942.98
+COT-0124,Santos,Porto Alegre,1980,6397.3,Frágil,Aéreo,Transportadora Alfa,4350.9
+COT-0125,Santos,Goiânia,805,14076.1,Carga geral,Aéreo,Transportadora Beta,5082.44
+COT-0126,Santos,Porto Alegre,1731,9166.3,Carga geral,Rodoviário,Transportadora Gama,1755.87
+COT-0127,Belo Horizonte,Rio de Janeiro,2415,2385.4,Carga geral,Rodoviário,Transportadora Alfa,2212.58
+COT-0128,Curitiba,Brasília,1130,5993.4,Refrigerada,Rodoviário,Transportadora Alfa,1555.57
+COT-0129,Santos,Goiânia,2437,15973.9,Frágil,Rodoviário,Transportadora Beta,3625.89
+COT-0130,Santos,Brasília,1306,7910.0,Carga geral,Marítimo,Transportadora Alfa,1308.9
+COT-0131,Santos,Goiânia,2323,2414.2,Frágil,Rodoviário,Transportadora Beta,2306.76
+COT-0132,São Paulo,Recife,2747,1713.2,Carga geral,Marítimo,Transportadora Alfa,1781.93
+COT-0133,Campinas,Recife,1046,1253.6,Carga geral,Rodoviário,Transportadora Gama,904.33
+COT-0134,Santos,Goiânia,2385,17950.2,Carga geral,Aéreo,Transportadora Gama,6757.7
+COT-0135,Curitiba,Goiânia,1999,17856.4,Carga geral,Rodoviário,Transportadora Delta,2855.87
+COT-0136,Santos,Recife,1916,16926.8,Carga geral,Rodoviário,Transportadora Beta,2681.37
+COT-0137,São Paulo,Porto Alegre,1211,6980.8,Carga geral,Rodoviário,Transportadora Beta,1609.5
+COT-0138,Belo Horizonte,Goiânia,218,12110.4,Refrigerada,Rodoviário,Transportadora Gama,1083.49
+COT-0139,Santos,Brasília,1269,13704.4,Carga geral,Rodoviário,Transportadora Beta,2007.71
+COT-0140,Curitiba,Brasília,789,12563.5,Refrigerada,Rodoviário,Transportadora Alfa,1708.46
+COT-0141,Curitiba,Rio de Janeiro,2101,10424.4,Carga geral,Rodoviário,Transportadora Beta,2824.97
+COT-0142,Curitiba,Salvador,2161,12733.1,Carga geral,Marítimo,Transportadora Alfa,1799.42
+COT-0143,Curitiba,Brasília,2193,17847.4,Carga geral,Rodoviário,Transportadora Alfa,2502.88
+COT-0144,Santos,Recife,2234,9405.3,Carga geral,Aéreo,Transportadora Alfa,5923.72
+COT-0145,Santos,Brasília,2623,682.5,Carga geral,Rodoviário,Transportadora Alfa,1958.34
+COT-0146,Belo Horizonte,Brasília,1582,603.9,Frágil,Rodoviário,Transportadora Alfa,1576.25
+COT-0147,Santos,Goiânia,2503,4448.1,Frágil,Marítimo,Transportadora Alfa,1837.54
+COT-0148,Belo Horizonte,Rio de Janeiro,2457,551.4,Carga geral,Rodoviário,Transportadora Beta,2139.69
+COT-0149,Curitiba,Salvador,653,2845.9,Frágil,Rodoviário,Transportadora Alfa,995.98
+COT-0150,São Paulo,Rio de Janeiro,1858,12191.0,Carga geral,Rodoviário,Transportadora Delta,2376.51
+COT-0151,Belo Horizonte,Brasília,725,17142.6,Refrigerada,Rodoviário,Transportadora Gama,1760.69
+COT-0152,Campinas,Rio de Janeiro,431,1250.0,Carga geral,Rodoviário,Transportadora Delta,605.63
+COT-0153,Belo Horizonte,Goiânia,813,3228.2,Carga geral,Aéreo,Transportadora Beta,2954.07
+COT-0154,Belo Horizonte,Brasília,2585,7275.4,Carga geral,Rodoviário,Transportadora Delta,2824.75
+COT-0155,Curitiba,Porto Alegre,2307,12838.6,Carga geral,Aéreo,Transportadora Alfa,6475.72
+COT-0156,Belo Horizonte,Brasília,2251,16907.4,Carga geral,Rodoviário,Transportadora Beta,2856.77
+COT-0157,Campinas,Recife,2009,1028.1,Carga geral,Rodoviário,Transportadora Gama,1680.41
+COT-0158,Belo Horizonte,Recife,1075,2293.2,Carga geral,Rodoviário,Transportadora Delta,1330.77
+COT-0159,Belo Horizonte,Salvador,2702,10390.2,Carga geral,Aéreo,Transportadora Gama,6048.16
+COT-0160,Santos,Goiânia,2774,8506.1,Frágil,Rodoviário,Transportadora Alfa,2853.01
+COT-0161,Campinas,Porto Alegre,566,1067.9,Carga geral,Rodoviário,Transportadora Gama,589.54
+COT-0162,Curitiba,Porto Alegre,2481,5360.3,Refrigerada,Rodoviário,Transportadora Gama,2400.27
+COT-0163,Campinas,Recife,2711,8403.8,Frágil,Rodoviário,Transportadora Beta,3096.09
+COT-0164,Santos,Brasília,2129,6045.5,Carga geral,Marítimo,Transportadora Gama,1569.59
+COT-0165,Campinas,Goiânia,1971,6854.3,Carga geral,Rodoviário,Transportadora Gama,1848.86
+COT-0166,Santos,Salvador,281,12065.9,Frágil,Marítimo,Transportadora Alfa,1164.13
+COT-0167,Curitiba,Goiânia,2281,17464.3,Carga geral,Aéreo,Transportadora Alfa,7235.95
+COT-0168,São Paulo,Salvador,1114,3647.6,Carga geral,Rodoviário,Transportadora Gama,1112.93
+COT-0169,Campinas,Rio de Janeiro,403,16607.1,Carga geral,Rodoviário,Transportadora Delta,1575.73
+COT-0170,Curitiba,Rio de Janeiro,2713,10520.7,Carga geral,Rodoviário,Transportadora Alfa,2577.68
+COT-0171,Belo Horizonte,Salvador,1092,7214.7,Carga geral,Marítimo,Transportadora Beta,1447.51
+COT-0172,Santos,Goiânia,1208,16105.0,Carga geral,Rodoviário,Transportadora Beta,2096.58
+COT-0173,Curitiba,Goiânia,2295,2506.2,Frágil,Rodoviário,Transportadora Alfa,2018.31
+COT-0174,Santos,Recife,1639,2947.1,Carga geral,Rodoviário,Transportadora Alfa,1424.81
+COT-0175,Santos,Salvador,376,2000.3,Refrigerada,Aéreo,Transportadora Beta,1979.91
+COT-0176,Santos,Rio de Janeiro,574,11350.0,Carga geral,Aéreo,Transportadora Gama,3596.04
+COT-0177,Belo Horizonte,Salvador,2089,10165.7,Refrigerada,Aéreo,Transportadora Alfa,5846.26
+COT-0178,Belo Horizonte,Recife,1496,7656.4,Carga geral,Aéreo,Transportadora Gama,3871.65
+COT-0179,Belo Horizonte,Salvador,1642,9318.3,Frágil,Rodoviário,Transportadora Gama,1767.84
+COT-0180,Belo Horizonte,Brasília,2689,5727.0,Refrigerada,Rodoviário,Transportadora Delta,3259.01
+COT-0181,Belo Horizonte,Recife,374,17901.9,Carga geral,Rodoviário,Transportadora Alfa,1241.99
+COT-0182,Campinas,Rio de Janeiro,414,3378.9,Carga geral,Rodoviário,Transportadora Gama,580.98
+COT-0183,São Paulo,Goiânia,1840,5953.0,Carga geral,Rodoviário,Transportadora Delta,1904.59
+COT-0184,São Paulo,Recife,1181,15663.4,Refrigerada,Rodoviário,Transportadora Alfa,2173.26
+COT-0185,Belo Horizonte,Brasília,913,1535.5,Carga geral,Aéreo,Transportadora Delta,2613.37
+COT-0186,Campinas,Rio de Janeiro,2153,5380.6,Carga geral,Aéreo,Transportadora Gama,4586.21
+COT-0187,Santos,Rio de Janeiro,2682,17706.8,Carga geral,Aéreo,Transportadora Gama,8473.6
+COT-0188,Campinas,Recife,807,15994.3,Refrigerada,Aéreo,Transportadora Gama,4861.28
+COT-0189,São Paulo,Goiânia,2499,4821.3,Carga geral,Rodoviário,Transportadora Alfa,2237.77
+COT-0190,Campinas,Recife,2572,3522.2,Carga geral,Aéreo,Transportadora Alfa,5098.06
+COT-0191,Campinas,Salvador,2541,11808.3,Carga geral,Rodoviário,Transportadora Delta,3303.8
+COT-0192,Santos,Recife,2328,1006.5,Carga geral,Rodoviário,Transportadora Gama,1719.44
+COT-0193,Campinas,Salvador,390,6118.8,Carga geral,Rodoviário,Transportadora Delta,914.74
+COT-0194,São Paulo,Goiânia,2136,14671.5,Carga geral,Marítimo,Transportadora Beta,2102.91
+COT-0195,São Paulo,Rio de Janeiro,860,5386.5,Frágil,Rodoviário,Transportadora Delta,2363.89
+COT-0196,Belo Horizonte,Rio de Janeiro,868,1233.3,Frágil,Aéreo,Transportadora Delta,2598.94
+COT-0197,São Paulo,Rio de Janeiro,851,8663.3,Carga geral,Rodoviário,Transportadora Delta,1385.05
+COT-0198,Belo Horizonte,Porto Alegre,259,16480.8,Refrigerada,Rodoviário,Transportadora Gama,1369.94
+COT-0199,Curitiba,Porto Alegre,2249,1609.8,Carga geral,Marítimo,Transportadora Delta,1687.46
+COT-0200,Belo Horizonte,Brasília,2624,5795.6,Frágil,Rodoviário,Transportadora Gama,2212.19
+COT-0201,Curitiba,Rio de Janeiro,500,5311.9,Frágil,Marítimo,Transportadora Gama,926.54
+COT-0202,Campinas,Brasília,1881,7007.5,Frágil,Aéreo,Transportadora Alfa,4611.38
+COT-0203,Campinas,Goiânia,2005,17420.6,Refrigerada,Aéreo,Transportadora Delta,8650.03
+COT-0204,Belo Horizonte,Porto Alegre,2781,13108.0,Carga geral,Rodoviário,Transportadora Alfa,3046.98
+COT-0205,Campinas,Salvador,175,17064.4,Carga geral,Marítimo,Transportadora Gama,1062.34
+COT-0206,Campinas,Porto Alegre,2326,2321.8,Frágil,Rodoviário,Transportadora Beta,2281.16
+COT-0207,Curitiba,Recife,145,12109.7,Refrigerada,Rodoviário,Transportadora Gama,1179.17
+COT-0208,Santos,Porto Alegre,1123,9102.6,Refrigerada,Rodoviário,Transportadora Alfa,1596.17
+COT-0209,Curitiba,Rio de Janeiro,1572,16160.0,Carga geral,Rodoviário,Transportadora Alfa,2367.06
+COT-0210,Belo Horizonte,Recife,2172,7409.9,Carga geral,Aéreo,Transportadora Alfa,5558.23
+COT-0211,Santos,Goiânia,2441,1402.3,Refrigerada,Marítimo,Transportadora Beta,1965.48
+COT-0212,Santos,Goiânia,412,8306.2,Carga geral,Rodoviário,Transportadora Alfa,1014.37
+COT-0213,Santos,Goiânia,1898,12884.6,Carga geral,Rodoviário,Transportadora Beta,2076.47
+COT-0214,São Paulo,Porto Alegre,2536,4395.7,Carga geral,Rodoviário,Transportadora Beta,2356.87
+COT-0215,Curitiba,Recife,1276,6222.6,Carga geral,Marítimo,Transportadora Delta,1478.59
+COT-0216,São Paulo,Salvador,1682,11722.3,Frágil,Rodoviário,Transportadora Beta,2458.5
+COT-0217,Belo Horizonte,Salvador,782,11450.4,Frágil,Rodoviário,Transportadora Delta,1884.22
+COT-0218,Campinas,Brasília,1143,12282.8,Carga geral,Rodoviário,Transportadora Gama,1608.92
+COT-0219,São Paulo,Goiânia,997,5819.7,Refrigerada,Rodoviário,Transportadora Gama,1424.13
+COT-0220,Curitiba,Salvador,543,8073.4,Carga geral,Aéreo,Transportadora Gama,2677.21
+COT-0221,São Paulo,Goiânia,1139,1625.8,Carga geral,Rodoviário,Transportadora Beta,1247.48
+COT-0222,Curitiba,Recife,112,13904.5,Carga geral,Rodoviário,Transportadora Alfa,1023.38
+COT-0223,Campinas,Brasília,1125,9573.0,Refrigerada,Rodoviário,Transportadora Beta,2015.32
+COT-0224,Belo Horizonte,Porto Alegre,402,6249.7,Carga geral,Rodoviário,Transportadora Gama,792.93
+COT-0225,Curitiba,Rio de Janeiro,266,3998.4,Carga geral,Rodoviário,Transportadora Beta,649.76
+COT-0226,Curitiba,Recife,1812,1936.0,Refrigerada,Rodoviário,Transportadora Beta,1972.85
+COT-0227,Campinas,Rio de Janeiro,762,8929.1,Carga geral,Rodoviário,Transportadora Beta,1360.17
+COT-0228,Campinas,Goiânia,1014,6562.9,Refrigerada,Rodoviário,Transportadora Delta,1853.97
+COT-0229,Campinas,Porto Alegre,865,14799.7,Refrigerada,Rodoviário,Transportadora Beta,1940.56
+COT-0230,São Paulo,Goiânia,120,11027.6,Frágil,Marítimo,Transportadora Delta,1116.38
+COT-0231,Belo Horizonte,Salvador,673,6699.1,Refrigerada,Marítimo,Transportadora Alfa,1347.06
+COT-0232,Campinas,Porto Alegre,2291,12556.2,Carga geral,Aéreo,Transportadora Alfa,5828.47
+COT-0233,Campinas,Salvador,1259,8384.6,Carga geral,Rodoviário,Transportadora Gama,1505.16
+COT-0234,Curitiba,Brasília,1662,8356.9,Carga geral,Aéreo,Transportadora Alfa,4798.12
+COT-0235,São Paulo,Recife,2280,11671.6,Carga geral,Aéreo,Transportadora Delta,6138.45
+COT-0236,São Paulo,Goiânia,1345,14948.9,Carga geral,Rodoviário,Transportadora Gama,1868.98
+COT-0237,Curitiba,Porto Alegre,560,2840.6,Carga geral,Rodoviário,Transportadora Beta,832.52
+COT-0238,Santos,Recife,1316,12260.5,Frágil,Rodoviário,Transportadora Gama,1823.01
+COT-0239,Santos,Rio de Janeiro,131,17108.8,Carga geral,Aéreo,Transportadora Beta,4344.92
+COT-0240,Curitiba,Salvador,2058,7966.8,Carga geral,Rodoviário,Transportadora Delta,2590.09

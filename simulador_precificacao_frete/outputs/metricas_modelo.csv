@@ -1,0 +1,4 @@
+﻿metric,value
+MAE (erro absoluto médio),348.1249
+RMSE (raiz do erro quadrático médio),506.1451
+R² (coeficiente de determinação),0.8845

@@ -1,0 +1,241 @@
+﻿cotacao_id,origem,destino,distancia_km,peso_kg,tipo_carga,modal,transportadora,preco_cobrado_brl,preco_esperado_brl,desvio_brl,desvio_pct,status_analise,limite_desvio_brl
+COT-0001,Belo Horizonte,Salvador,1947,13973.60,Carga geral,Rodoviário,Transportadora Delta,2542.12,2629.48,-87.36,-3.32,DENTRO DO PADRÃO,903.37
+COT-0002,Belo Horizonte,Rio de Janeiro,1449,14357.40,Carga geral,Rodoviário,Transportadora Delta,2364.45,2477.93,-113.48,-4.58,DENTRO DO PADRÃO,903.37
+COT-0003,Curitiba,Brasília,2774,9106.60,Carga geral,Marítimo,Transportadora Beta,2083.69,2660.57,-576.88,-21.68,DENTRO DO PADRÃO,903.37
+COT-0004,Curitiba,Salvador,1020,3914.80,Carga geral,Rodoviário,Transportadora Delta,1320.32,1161.20,159.12,13.70,DENTRO DO PADRÃO,903.37
+COT-0005,Santos,Rio de Janeiro,482,8418.40,Frágil,Rodoviário,Transportadora Gama,1069.47,1048.24,21.23,2.03,DENTRO DO PADRÃO,903.37
+COT-0006,Campinas,Porto Alegre,1124,261.70,Carga geral,Rodoviário,Transportadora Alfa,1067.56,641.49,426.07,66.42,DENTRO DO PADRÃO,903.37
+COT-0007,Curitiba,Porto Alegre,1420,14949.40,Carga geral,Rodoviário,Transportadora Alfa,2038.04,2111.22,-73.18,-3.47,DENTRO DO PADRÃO,903.37
+COT-0008,São Paulo,Salvador,2637,11532.90,Refrigerada,Rodoviário,Transportadora Delta,3595.18,3521.97,73.21,2.08,DENTRO DO PADRÃO,903.37
+COT-0009,Curitiba,Salvador,1754,6534.70,Carga geral,Rodoviário,Transportadora Delta,2081.90,1981.28,100.62,5.08,DENTRO DO PADRÃO,903.37
+COT-0010,Santos,Brasília,709,14703.30,Carga geral,Marítimo,Transportadora Alfa,1425.67,1157.39,268.28,23.18,DENTRO DO PADRÃO,903.37
+COT-0011,Santos,Salvador,1303,12192.30,Carga geral,Rodoviário,Transportadora Gama,1622.97,1571.90,51.07,3.25,DENTRO DO PADRÃO,903.37
+COT-0012,São Paulo,Porto Alegre,2330,17422.50,Carga geral,Rodoviário,Transportadora Alfa,2925.13,3063.22,-138.09,-4.51,DENTRO DO PADRÃO,903.37
+COT-0013,Santos,Recife,350,2412.50,Frágil,Marítimo,Transportadora Gama,803.07,59.81,743.26,1242.72,DENTRO DO PADRÃO,903.37
+COT-0014,Belo Horizonte,Salvador,858,3504.70,Frágil,Rodoviário,Transportadora Alfa,1154.44,814.91,339.53,41.67,DENTRO DO PADRÃO,903.37
+COT-0015,Campinas,Recife,2717,10276.00,Carga geral,Rodoviário,Transportadora Gama,2717.01,2774.43,-57.42,-2.07,DENTRO DO PADRÃO,903.37
+COT-0016,Curitiba,Rio de Janeiro,2717,8445.80,Carga geral,Rodoviário,Transportadora Delta,2989.90,3155.00,-165.10,-5.23,DENTRO DO PADRÃO,903.37
+COT-0017,São Paulo,Rio de Janeiro,2045,594.80,Carga geral,Marítimo,Transportadora Beta,2706.31,1575.38,1130.93,71.79,REVISAR,903.37
+COT-0018,Curitiba,Porto Alegre,313,15716.90,Carga geral,Rodoviário,Transportadora Gama,1208.31,1167.73,40.58,3.47,DENTRO DO PADRÃO,903.37
+COT-0019,Belo Horizonte,Porto Alegre,2539,13786.20,Frágil,Rodoviário,Transportadora Gama,2562.51,2941.86,-379.35,-12.89,DENTRO DO PADRÃO,903.37
+COT-0020,Campinas,Rio de Janeiro,1655,14599.00,Carga geral,Rodoviário,Transportadora Delta,2646.58,2792.58,-146.00,-5.23,DENTRO DO PADRÃO,903.37
+COT-0021,Belo Horizonte,Rio de Janeiro,2438,14284.80,Carga geral,Aéreo,Transportadora Gama,6006.63,5856.57,150.06,2.56,DENTRO DO PADRÃO,903.37
+COT-0022,São Paulo,Brasília,2556,3270.30,Carga geral,Marítimo,Transportadora Beta,1730.54,1995.62,-265.08,-13.28,DENTRO DO PADRÃO,903.37
+COT-0023,Belo Horizonte,Porto Alegre,471,17139.10,Carga geral,Marítimo,Transportadora Beta,1395.97,1299.98,95.99,7.38,DENTRO DO PADRÃO,903.37
+COT-0024,Belo Horizonte,Salvador,2527,13382.70,Carga geral,Rodoviário,Transportadora Delta,3136.15,3055.91,80.24,2.63,DENTRO DO PADRÃO,903.37
+COT-0025,Campinas,Porto Alegre,2028,1283.40,Carga geral,Rodoviário,Transportadora Delta,2081.38,1756.66,324.72,18.48,DENTRO DO PADRÃO,903.37
+COT-0026,Curitiba,Brasília,2223,12192.70,Refrigerada,Rodoviário,Transportadora Delta,3390.43,3240.87,149.56,4.61,DENTRO DO PADRÃO,903.37
+COT-0027,Campinas,Brasília,1771,3692.30,Carga geral,Rodoviário,Transportadora Beta,1718.73,1622.66,96.07,5.92,DENTRO DO PADRÃO,903.37
+COT-0028,Belo Horizonte,Recife,1701,10887.80,Carga geral,Rodoviário,Transportadora Alfa,1978.48,1966.21,12.27,0.62,DENTRO DO PADRÃO,903.37
+COT-0029,Campinas,Brasília,437,8411.80,Refrigerada,Rodoviário,Transportadora Delta,1336.69,1457.50,-120.81,-8.29,DENTRO DO PADRÃO,903.37
+COT-0030,Curitiba,Rio de Janeiro,1929,13764.30,Refrigerada,Aéreo,Transportadora Beta,7383.48,6179.05,1204.43,19.49,REVISAR,903.37
+COT-0031,Belo Horizonte,Recife,1974,15804.60,Carga geral,Marítimo,Transportadora Delta,2246.41,2648.90,-402.49,-15.19,DENTRO DO PADRÃO,903.37
+COT-0032,São Paulo,Rio de Janeiro,1273,4587.20,Carga geral,Rodoviário,Transportadora Alfa,1379.82,1360.59,19.23,1.41,DENTRO DO PADRÃO,903.37
+COT-0033,Campinas,Rio de Janeiro,925,3029.90,Refrigerada,Rodoviário,Transportadora Gama,1235.18,1242.76,-7.58,-0.61,DENTRO DO PADRÃO,903.37
+COT-0034,Santos,Recife,2415,14618.00,Refrigerada,Rodoviário,Transportadora Gama,2594.11,3170.54,-576.43,-18.18,DENTRO DO PADRÃO,903.37
+COT-0035,Curitiba,Salvador,1117,14439.90,Frágil,Aéreo,Transportadora Alfa,4881.38,5029.44,-148.06,-2.94,DENTRO DO PADRÃO,903.37
+COT-0036,Santos,Porto Alegre,2373,2073.30,Refrigerada,Aéreo,Transportadora Beta,4582.64,5214.36,-631.72,-12.11,DENTRO DO PADRÃO,903.37
+COT-0037,Curitiba,Recife,1276,2368.00,Refrigerada,Marítimo,Transportadora Delta,1503.75,1487.70,16.05,1.08,DENTRO DO PADRÃO,903.37
+COT-0038,Santos,Salvador,1142,10987.50,Carga geral,Rodoviário,Transportadora Gama,1504.60,1339.55,165.05,12.32,DENTRO DO PADRÃO,903.37
+COT-0039,Belo Horizonte,Goiânia,1950,5922.70,Refrigerada,Aéreo,Transportadora Delta,5663.62,5504.49,159.13,2.89,DENTRO DO PADRÃO,903.37
+COT-0040,São Paulo,Rio de Janeiro,1036,11732.00,Carga geral,Rodoviário,Transportadora Alfa,1654.88,1761.20,-106.32,-6.04,DENTRO DO PADRÃO,903.37
+COT-0041,Belo Horizonte,Porto Alegre,536,8244.40,Refrigerada,Rodoviário,Transportadora Beta,1374.87,1252.55,122.32,9.77,DENTRO DO PADRÃO,903.37
+COT-0042,Belo Horizonte,Rio de Janeiro,618,14958.40,Carga geral,Rodoviário,Transportadora Gama,1304.30,1458.14,-153.84,-10.55,DENTRO DO PADRÃO,903.37
+COT-0043,Campinas,Brasília,2019,5970.80,Carga geral,Rodoviário,Transportadora Alfa,1967.62,1862.22,105.40,5.66,DENTRO DO PADRÃO,903.37
+COT-0044,Curitiba,Salvador,2465,1442.00,Refrigerada,Rodoviário,Transportadora Beta,2469.69,2405.60,64.09,2.66,DENTRO DO PADRÃO,903.37
+COT-0045,Belo Horizonte,Rio de Janeiro,1829,16319.70,Carga geral,Rodoviário,Transportadora Alfa,2467.89,2664.19,-196.30,-7.37,DENTRO DO PADRÃO,903.37
+COT-0046,Santos,Salvador,2408,7854.90,Frágil,Rodoviário,Transportadora Alfa,2288.21,2455.46,-167.25,-6.81,DENTRO DO PADRÃO,903.37
+COT-0047,Santos,Rio de Janeiro,1888,13987.70,Frágil,Rodoviário,Transportadora Gama,1940.81,2665.00,-724.19,-27.17,DENTRO DO PADRÃO,903.37
+COT-0048,Curitiba,Rio de Janeiro,723,13646.40,Carga geral,Rodoviário,Transportadora Gama,1349.46,1564.52,-215.06,-13.75,DENTRO DO PADRÃO,903.37
+COT-0049,Campinas,Goiânia,1823,2307.10,Carga geral,Aéreo,Transportadora Delta,4211.06,4824.30,-613.24,-12.71,DENTRO DO PADRÃO,903.37
+COT-0050,São Paulo,Goiânia,1194,16908.30,Frágil,Aéreo,Transportadora Delta,6730.84,5767.08,963.76,16.71,REVISAR,903.37
+COT-0051,Campinas,Salvador,633,13682.90,Refrigerada,Aéreo,Transportadora Alfa,4716.48,4727.15,-10.67,-0.23,DENTRO DO PADRÃO,903.37
+COT-0052,São Paulo,Porto Alegre,1018,648.40,Frágil,Rodoviário,Transportadora Beta,1180.48,983.03,197.45,20.09,DENTRO DO PADRÃO,903.37
+COT-0053,Belo Horizonte,Salvador,154,6897.20,Frágil,Marítimo,Transportadora Gama,877.19,181.11,696.08,384.34,DENTRO DO PADRÃO,903.37
+COT-0054,Curitiba,Rio de Janeiro,179,17873.40,Carga geral,Aéreo,Transportadora Delta,5434.64,4820.80,613.84,12.73,DENTRO DO PADRÃO,903.37
+COT-0055,Campinas,Recife,792,1698.00,Frágil,Rodoviário,Transportadora Alfa,1019.21,820.12,199.09,24.28,DENTRO DO PADRÃO,903.37
+COT-0056,Santos,Salvador,2666,13519.50,Carga geral,Marítimo,Transportadora Beta,2533.68,2813.92,-280.24,-9.96,DENTRO DO PADRÃO,903.37
+COT-0057,Belo Horizonte,Goiânia,495,8547.60,Carga geral,Rodoviário,Transportadora Alfa,939.67,878.54,61.13,6.96,DENTRO DO PADRÃO,903.37
+COT-0058,Santos,Goiânia,769,1069.10,Frágil,Marítimo,Transportadora Beta,1116.30,640.87,475.43,74.18,DENTRO DO PADRÃO,903.37
+COT-0059,Curitiba,Brasília,267,4127.90,Carga geral,Rodoviário,Transportadora Beta,648.84,429.50,219.34,51.07,DENTRO DO PADRÃO,903.37
+COT-0060,Belo Horizonte,Rio de Janeiro,553,15495.50,Carga geral,Rodoviário,Transportadora Alfa,1455.50,1549.17,-93.67,-6.05,DENTRO DO PADRÃO,903.37
+COT-0061,Belo Horizonte,Brasília,804,5129.00,Carga geral,Rodoviário,Transportadora Gama,990.65,570.56,420.09,73.63,DENTRO DO PADRÃO,903.37
+COT-0062,Belo Horizonte,Porto Alegre,2651,15728.20,Carga geral,Rodoviário,Transportadora Delta,3053.19,3344.80,-291.61,-8.72,DENTRO DO PADRÃO,903.37
+COT-0063,Santos,Recife,2703,4190.50,Frágil,Rodoviário,Transportadora Delta,2845.30,2765.19,80.11,2.90,DENTRO DO PADRÃO,903.37
+COT-0064,Santos,Porto Alegre,1572,777.50,Carga geral,Rodoviário,Transportadora Delta,1578.07,1222.23,355.84,29.11,DENTRO DO PADRÃO,903.37
+COT-0065,Santos,Brasília,2567,15861.40,Refrigerada,Aéreo,Transportadora Beta,8253.47,6532.98,1720.49,26.34,REVISAR,903.37
+COT-0066,Belo Horizonte,Goiânia,897,12282.50,Refrigerada,Rodoviário,Transportadora Delta,2088.12,2208.54,-120.42,-5.45,DENTRO DO PADRÃO,903.37
+COT-0067,São Paulo,Goiânia,2215,16554.20,Carga geral,Rodoviário,Transportadora Alfa,2813.26,3085.08,-271.82,-8.81,DENTRO DO PADRÃO,903.37
+COT-0068,Santos,Rio de Janeiro,893,1693.40,Frágil,Rodoviário,Transportadora Gama,1003.17,825.28,177.89,21.56,DENTRO DO PADRÃO,903.37
+COT-0069,São Paulo,Brasília,1678,12666.00,Refrigerada,Marítimo,Transportadora Delta,2071.74,2593.79,-522.05,-20.13,DENTRO DO PADRÃO,903.37
+COT-0070,Campinas,Porto Alegre,106,15039.20,Carga geral,Rodoviário,Transportadora Gama,1100.56,937.63,162.93,17.38,DENTRO DO PADRÃO,903.37
+COT-0071,São Paulo,Salvador,1537,1222.40,Refrigerada,Rodoviário,Transportadora Delta,2032.74,1761.35,271.39,15.41,DENTRO DO PADRÃO,903.37
+COT-0072,Curitiba,Porto Alegre,1383,12982.00,Carga geral,Aéreo,Transportadora Beta,5177.86,5032.62,145.24,2.89,DENTRO DO PADRÃO,903.37
+COT-0073,Belo Horizonte,Salvador,1186,16781.40,Carga geral,Rodoviário,Transportadora Gama,1834.02,1850.87,-16.85,-0.91,DENTRO DO PADRÃO,903.37
+COT-0074,São Paulo,Salvador,2155,10698.40,Carga geral,Rodoviário,Transportadora Alfa,2313.31,2367.89,-54.58,-2.30,DENTRO DO PADRÃO,903.37
+COT-0075,Santos,Brasília,2106,13517.60,Refrigerada,Rodoviário,Transportadora Beta,3065.08,2997.74,67.34,2.25,DENTRO DO PADRÃO,903.37
+COT-0076,São Paulo,Porto Alegre,2329,14749.60,Refrigerada,Rodoviário,Transportadora Gama,2627.90,3140.78,-512.88,-16.33,DENTRO DO PADRÃO,903.37
+COT-0077,São Paulo,Salvador,885,13410.00,Carga geral,Rodoviário,Transportadora Beta,1668.85,1705.77,-36.92,-2.16,DENTRO DO PADRÃO,903.37
+COT-0078,Belo Horizonte,Salvador,266,14891.40,Carga geral,Aéreo,Transportadora Beta,4532.03,4154.21,377.82,9.09,DENTRO DO PADRÃO,903.37
+COT-0079,Belo Horizonte,Porto Alegre,2136,667.30,Carga geral,Aéreo,Transportadora Gama,3296.85,4241.98,-945.13,-22.28,REVISAR,903.37
+COT-0080,Santos,Salvador,2346,12214.20,Carga geral,Rodoviário,Transportadora Gama,2285.05,2429.04,-143.99,-5.93,DENTRO DO PADRÃO,903.37
+COT-0081,Campinas,Brasília,1818,7781.90,Frágil,Rodoviário,Transportadora Beta,2059.95,2240.73,-180.78,-8.07,DENTRO DO PADRÃO,903.37
+COT-0082,Belo Horizonte,Porto Alegre,765,17064.80,Frágil,Rodoviário,Transportadora Gama,1717.13,1760.10,-42.97,-2.44,DENTRO DO PADRÃO,903.37
+COT-0083,Campinas,Recife,939,12355.50,Carga geral,Aéreo,Transportadora Beta,4456.36,4704.72,-248.36,-5.28,DENTRO DO PADRÃO,903.37
+COT-0084,Santos,Porto Alegre,303,7593.40,Frágil,Aéreo,Transportadora Alfa,2604.72,3661.40,-1056.68,-28.86,REVISAR,903.37
+COT-0085,Belo Horizonte,Goiânia,1927,6751.70,Carga geral,Rodoviário,Transportadora Beta,2224.59,2056.85,167.74,8.16,DENTRO DO PADRÃO,903.37
+COT-0086,Santos,Goiânia,2265,1067.90,Refrigerada,Aéreo,Transportadora Delta,5273.71,5365.77,-92.06,-1.72,DENTRO DO PADRÃO,903.37
+COT-0087,Campinas,Rio de Janeiro,487,4468.60,Refrigerada,Rodoviário,Transportadora Gama,969.31,1003.38,-34.07,-3.40,DENTRO DO PADRÃO,903.37
+COT-0088,Belo Horizonte,Brasília,886,9467.90,Refrigerada,Rodoviário,Transportadora Beta,1055.96,1652.82,-596.86,-36.11,DENTRO DO PADRÃO,903.37
+COT-0089,Campinas,Brasília,2419,4650.80,Carga geral,Rodoviário,Transportadora Beta,2343.40,2233.87,109.53,4.90,DENTRO DO PADRÃO,903.37
+COT-0090,Campinas,Goiânia,2277,2507.90,Carga geral,Aéreo,Transportadora Alfa,4208.44,4924.56,-716.12,-14.54,DENTRO DO PADRÃO,903.37
+COT-0091,Curitiba,Recife,860,11195.30,Refrigerada,Aéreo,Transportadora Gama,3796.30,4694.66,-898.36,-19.14,DENTRO DO PADRÃO,903.37
+COT-0092,Campinas,Brasília,2535,8832.00,Carga geral,Rodoviário,Transportadora Beta,2705.01,2677.17,27.84,1.04,DENTRO DO PADRÃO,903.37
+COT-0093,Santos,Rio de Janeiro,2319,3168.30,Carga geral,Marítimo,Transportadora Alfa,1559.22,1738.73,-179.51,-10.32,DENTRO DO PADRÃO,903.37
+COT-0094,São Paulo,Brasília,1181,8564.50,Carga geral,Rodoviário,Transportadora Alfa,1539.84,1394.74,145.10,10.40,DENTRO DO PADRÃO,903.37
+COT-0095,São Paulo,Brasília,2161,3354.00,Carga geral,Rodoviário,Transportadora Delta,2240.65,2053.26,187.39,9.13,DENTRO DO PADRÃO,903.37
+COT-0096,Santos,Goiânia,1912,16632.40,Frágil,Rodoviário,Transportadora Alfa,2678.90,2960.01,-281.11,-9.50,DENTRO DO PADRÃO,903.37
+COT-0097,São Paulo,Salvador,2753,13911.10,Carga geral,Marítimo,Transportadora Gama,2042.83,2786.83,-744.00,-26.70,DENTRO DO PADRÃO,903.37
+COT-0098,São Paulo,Rio de Janeiro,846,632.40,Frágil,Marítimo,Transportadora Beta,1000.47,834.26,166.21,19.92,DENTRO DO PADRÃO,903.37
+COT-0099,Campinas,Salvador,2160,12227.40,Carga geral,Marítimo,Transportadora Gama,1905.97,2156.60,-250.63,-11.62,DENTRO DO PADRÃO,903.37
+COT-0100,Curitiba,Porto Alegre,1130,385.00,Refrigerada,Rodoviário,Transportadora Gama,1228.87,961.56,267.31,27.80,DENTRO DO PADRÃO,903.37
+COT-0101,Curitiba,Recife,2669,6093.50,Carga geral,Rodoviário,Transportadora Delta,2925.30,2779.07,146.23,5.26,DENTRO DO PADRÃO,903.37
+COT-0102,Campinas,Brasília,2727,16707.50,Carga geral,Marítimo,Transportadora Beta,2263.63,3251.05,-987.42,-30.37,REVISAR,903.37
+COT-0103,Campinas,Recife,602,108.80,Refrigerada,Rodoviário,Transportadora Beta,928.97,847.09,81.88,9.67,DENTRO DO PADRÃO,903.37
+COT-0104,São Paulo,Goiânia,230,3862.90,Carga geral,Marítimo,Transportadora Gama,703.62,61.48,642.14,1044.49,DENTRO DO PADRÃO,903.37
+COT-0105,Curitiba,Goiânia,1242,14679.90,Carga geral,Rodoviário,Transportadora Alfa,1942.96,2131.29,-188.33,-8.84,DENTRO DO PADRÃO,903.37
+COT-0106,Santos,Salvador,507,1565.00,Carga geral,Aéreo,Transportadora Delta,2206.04,3384.59,-1178.55,-34.82,REVISAR,903.37
+COT-0107,Belo Horizonte,Brasília,1673,8212.10,Frágil,Rodoviário,Transportadora Gama,1852.26,1778.91,73.35,4.12,DENTRO DO PADRÃO,903.37
+COT-0108,Belo Horizonte,Salvador,643,6839.80,Refrigerada,Rodoviário,Transportadora Gama,1188.98,978.29,210.69,21.54,DENTRO DO PADRÃO,903.37
+COT-0109,São Paulo,Rio de Janeiro,979,12859.10,Carga geral,Aéreo,Transportadora Delta,5414.37,5059.10,355.27,7.02,DENTRO DO PADRÃO,903.37
+COT-0110,Belo Horizonte,Porto Alegre,242,8092.90,Carga geral,Rodoviário,Transportadora Delta,893.03,733.49,159.54,21.75,DENTRO DO PADRÃO,903.37
+COT-0111,Belo Horizonte,Brasília,1733,3154.80,Carga geral,Rodoviário,Transportadora Beta,1750.61,1421.14,329.47,23.18,DENTRO DO PADRÃO,903.37
+COT-0112,Campinas,Goiânia,2504,4950.10,Carga geral,Rodoviário,Transportadora Delta,2538.75,2640.82,-102.07,-3.86,DENTRO DO PADRÃO,903.37
+COT-0113,Campinas,Rio de Janeiro,2409,8561.00,Refrigerada,Rodoviário,Transportadora Delta,3263.22,3308.66,-45.44,-1.37,DENTRO DO PADRÃO,903.37
+COT-0114,Santos,Recife,2667,152.70,Carga geral,Rodoviário,Transportadora Delta,2406.83,2160.45,246.38,11.40,DENTRO DO PADRÃO,903.37
+COT-0115,Curitiba,Rio de Janeiro,1134,14636.90,Carga geral,Rodoviário,Transportadora Beta,1777.91,2237.18,-459.27,-20.53,DENTRO DO PADRÃO,903.37
+COT-0116,Belo Horizonte,Brasília,1189,7090.00,Carga geral,Rodoviário,Transportadora Alfa,1397.38,1149.18,248.20,21.60,DENTRO DO PADRÃO,903.37
+COT-0117,Campinas,Recife,1643,11665.70,Carga geral,Rodoviário,Transportadora Gama,1881.24,2009.42,-128.18,-6.38,DENTRO DO PADRÃO,903.37
+COT-0118,Curitiba,Salvador,292,9930.90,Carga geral,Rodoviário,Transportadora Delta,1009.89,1065.18,-55.29,-5.19,DENTRO DO PADRÃO,903.37
+COT-0119,São Paulo,Rio de Janeiro,1542,14714.40,Carga geral,Rodoviário,Transportadora Gama,2217.19,2324.89,-107.70,-4.63,DENTRO DO PADRÃO,903.37
+COT-0120,Campinas,Porto Alegre,1212,6732.40,Carga geral,Rodoviário,Transportadora Beta,1489.89,1406.03,83.86,5.96,DENTRO DO PADRÃO,903.37
+COT-0121,São Paulo,Rio de Janeiro,2340,16633.30,Carga geral,Rodoviário,Transportadora Delta,3058.69,3527.44,-468.75,-13.29,DENTRO DO PADRÃO,903.37
+COT-0122,Curitiba,Recife,594,844.70,Carga geral,Rodoviário,Transportadora Delta,675.96,640.39,35.57,5.55,DENTRO DO PADRÃO,903.37
+COT-0123,Santos,Recife,2644,3124.50,Carga geral,Rodoviário,Transportadora Alfa,1942.98,2100.29,-157.31,-7.49,DENTRO DO PADRÃO,903.37
+COT-0124,Santos,Porto Alegre,1980,6397.30,Frágil,Aéreo,Transportadora Alfa,4350.90,4937.03,-586.13,-11.87,DENTRO DO PADRÃO,903.37
+COT-0125,Santos,Goiânia,805,14076.10,Carga geral,Aéreo,Transportadora Beta,5082.44,4715.93,366.51,7.77,DENTRO DO PADRÃO,903.37
+COT-0126,Santos,Porto Alegre,1731,9166.30,Carga geral,Rodoviário,Transportadora Gama,1755.87,1662.80,93.07,5.60,DENTRO DO PADRÃO,903.37
+COT-0127,Belo Horizonte,Rio de Janeiro,2415,2385.40,Carga geral,Rodoviário,Transportadora Alfa,2212.58,1984.40,228.18,11.50,DENTRO DO PADRÃO,903.37
+COT-0128,Curitiba,Brasília,1130,5993.40,Refrigerada,Rodoviário,Transportadora Alfa,1555.57,1539.57,16.00,1.04,DENTRO DO PADRÃO,903.37
+COT-0129,Santos,Goiânia,2437,15973.90,Frágil,Rodoviário,Transportadora Beta,3625.89,3489.24,136.65,3.92,DENTRO DO PADRÃO,903.37
+COT-0130,Santos,Brasília,1306,7910.00,Carga geral,Marítimo,Transportadora Alfa,1308.90,1081.27,227.63,21.05,DENTRO DO PADRÃO,903.37
+COT-0131,Santos,Goiânia,2323,2414.20,Frágil,Rodoviário,Transportadora Beta,2306.76,2266.62,40.14,1.77,DENTRO DO PADRÃO,903.37
+COT-0132,São Paulo,Recife,2747,1713.20,Carga geral,Marítimo,Transportadora Alfa,1781.93,1949.95,-168.02,-8.62,DENTRO DO PADRÃO,903.37
+COT-0133,Campinas,Recife,1046,1253.60,Carga geral,Rodoviário,Transportadora Gama,904.33,652.82,251.51,38.53,DENTRO DO PADRÃO,903.37
+COT-0134,Santos,Goiânia,2385,17950.20,Carga geral,Aéreo,Transportadora Gama,6757.70,6081.06,676.64,11.13,DENTRO DO PADRÃO,903.37
+COT-0135,Curitiba,Goiânia,1999,17856.40,Carga geral,Rodoviário,Transportadora Delta,2855.87,3305.34,-449.47,-13.60,DENTRO DO PADRÃO,903.37
+COT-0136,Santos,Recife,1916,16926.80,Carga geral,Rodoviário,Transportadora Beta,2681.37,2806.17,-124.80,-4.45,DENTRO DO PADRÃO,903.37
+COT-0137,São Paulo,Porto Alegre,1211,6980.80,Carga geral,Rodoviário,Transportadora Beta,1609.50,1429.63,179.87,12.58,DENTRO DO PADRÃO,903.37
+COT-0138,Belo Horizonte,Goiânia,218,12110.40,Refrigerada,Rodoviário,Transportadora Gama,1083.49,1249.03,-165.54,-13.25,DENTRO DO PADRÃO,903.37
+COT-0139,Santos,Brasília,1269,13704.40,Carga geral,Rodoviário,Transportadora Beta,2007.71,1926.35,81.36,4.22,DENTRO DO PADRÃO,903.37
+COT-0140,Curitiba,Brasília,789,12563.50,Refrigerada,Rodoviário,Transportadora Alfa,1708.46,1807.03,-98.57,-5.45,DENTRO DO PADRÃO,903.37
+COT-0141,Curitiba,Rio de Janeiro,2101,10424.40,Carga geral,Rodoviário,Transportadora Beta,2824.97,2679.39,145.58,5.43,DENTRO DO PADRÃO,903.37
+COT-0142,Curitiba,Salvador,2161,12733.10,Carga geral,Marítimo,Transportadora Alfa,1799.42,2303.05,-503.63,-21.87,DENTRO DO PADRÃO,903.37
+COT-0143,Curitiba,Brasília,2193,17847.40,Carga geral,Rodoviário,Transportadora Alfa,2502.88,2997.82,-494.94,-16.51,DENTRO DO PADRÃO,903.37
+COT-0144,Santos,Recife,2234,9405.30,Carga geral,Aéreo,Transportadora Alfa,5923.72,5249.11,674.61,12.85,DENTRO DO PADRÃO,903.37
+COT-0145,Santos,Brasília,2623,682.50,Carga geral,Rodoviário,Transportadora Alfa,1958.34,1798.80,159.54,8.87,DENTRO DO PADRÃO,903.37
+COT-0146,Belo Horizonte,Brasília,1582,603.90,Frágil,Rodoviário,Transportadora Alfa,1576.25,1170.34,405.91,34.68,DENTRO DO PADRÃO,903.37
+COT-0147,Santos,Goiânia,2503,4448.10,Frágil,Marítimo,Transportadora Alfa,1837.54,2190.67,-353.13,-16.12,DENTRO DO PADRÃO,903.37
+COT-0148,Belo Horizonte,Rio de Janeiro,2457,551.40,Carga geral,Rodoviário,Transportadora Beta,2139.69,2019.67,120.02,5.94,DENTRO DO PADRÃO,903.37
+COT-0149,Curitiba,Salvador,653,2845.90,Frágil,Rodoviário,Transportadora Alfa,995.98,721.46,274.52,38.05,DENTRO DO PADRÃO,903.37
+COT-0150,São Paulo,Rio de Janeiro,1858,12191.00,Carga geral,Rodoviário,Transportadora Delta,2376.51,2762.26,-385.75,-13.97,DENTRO DO PADRÃO,903.37
+COT-0151,Belo Horizonte,Brasília,725,17142.60,Refrigerada,Rodoviário,Transportadora Gama,1760.69,1906.73,-146.04,-7.66,DENTRO DO PADRÃO,903.37
+COT-0152,Campinas,Rio de Janeiro,431,1250.00,Carga geral,Rodoviário,Transportadora Delta,605.63,677.24,-71.61,-10.57,DENTRO DO PADRÃO,903.37
+COT-0153,Belo Horizonte,Goiânia,813,3228.20,Carga geral,Aéreo,Transportadora Beta,2954.07,3811.93,-857.86,-22.50,DENTRO DO PADRÃO,903.37
+COT-0154,Belo Horizonte,Brasília,2585,7275.40,Carga geral,Rodoviário,Transportadora Delta,2824.75,2598.17,226.58,8.72,DENTRO DO PADRÃO,903.37
+COT-0155,Curitiba,Porto Alegre,2307,12838.60,Carga geral,Aéreo,Transportadora Alfa,6475.72,5624.86,850.86,15.13,DENTRO DO PADRÃO,903.37
+COT-0156,Belo Horizonte,Brasília,2251,16907.40,Carga geral,Rodoviário,Transportadora Beta,2856.77,2991.13,-134.36,-4.49,DENTRO DO PADRÃO,903.37
+COT-0157,Campinas,Recife,2009,1028.10,Carga geral,Rodoviário,Transportadora Gama,1680.41,1423.75,256.66,18.03,DENTRO DO PADRÃO,903.37
+COT-0158,Belo Horizonte,Recife,1075,2293.20,Carga geral,Rodoviário,Transportadora Delta,1330.77,1025.94,304.83,29.71,DENTRO DO PADRÃO,903.37
+COT-0159,Belo Horizonte,Salvador,2702,10390.20,Carga geral,Aéreo,Transportadora Gama,6048.16,5523.88,524.28,9.49,DENTRO DO PADRÃO,903.37
+COT-0160,Santos,Goiânia,2774,8506.10,Frágil,Rodoviário,Transportadora Alfa,2853.01,2990.20,-137.19,-4.59,DENTRO DO PADRÃO,903.37
+COT-0161,Campinas,Porto Alegre,566,1067.90,Carga geral,Rodoviário,Transportadora Gama,589.54,151.44,438.10,289.30,DENTRO DO PADRÃO,903.37
+COT-0162,Curitiba,Porto Alegre,2481,5360.30,Refrigerada,Rodoviário,Transportadora Gama,2400.27,2483.75,-83.48,-3.36,DENTRO DO PADRÃO,903.37
+COT-0163,Campinas,Recife,2711,8403.80,Frágil,Rodoviário,Transportadora Beta,3096.09,3105.74,-9.65,-0.31,DENTRO DO PADRÃO,903.37
+COT-0164,Santos,Brasília,2129,6045.50,Carga geral,Marítimo,Transportadora Gama,1569.59,1501.30,68.29,4.55,DENTRO DO PADRÃO,903.37
+COT-0165,Campinas,Goiânia,1971,6854.30,Carga geral,Rodoviário,Transportadora Gama,1848.86,1973.93,-125.07,-6.34,DENTRO DO PADRÃO,903.37
+COT-0166,Santos,Salvador,281,12065.90,Frágil,Marítimo,Transportadora Alfa,1164.13,822.50,341.63,41.54,DENTRO DO PADRÃO,903.37
+COT-0167,Curitiba,Goiânia,2281,17464.30,Carga geral,Aéreo,Transportadora Alfa,7235.95,6177.21,1058.74,17.14,REVISAR,903.37
+COT-0168,São Paulo,Salvador,1114,3647.60,Carga geral,Rodoviário,Transportadora Gama,1112.93,827.48,285.45,34.50,DENTRO DO PADRÃO,903.37
+COT-0169,Campinas,Rio de Janeiro,403,16607.10,Carga geral,Rodoviário,Transportadora Delta,1575.73,1933.09,-357.36,-18.49,DENTRO DO PADRÃO,903.37
+COT-0170,Curitiba,Rio de Janeiro,2713,10520.70,Carga geral,Rodoviário,Transportadora Alfa,2577.68,3035.74,-458.06,-15.09,DENTRO DO PADRÃO,903.37
+COT-0171,Belo Horizonte,Salvador,1092,7214.70,Carga geral,Marítimo,Transportadora Beta,1447.51,990.92,456.59,46.08,DENTRO DO PADRÃO,903.37
+COT-0172,Santos,Goiânia,1208,16105.00,Carga geral,Rodoviário,Transportadora Beta,2096.58,2253.33,-156.75,-6.96,DENTRO DO PADRÃO,903.37
+COT-0173,Curitiba,Goiânia,2295,2506.20,Frágil,Rodoviário,Transportadora Alfa,2018.31,2220.06,-201.75,-9.09,DENTRO DO PADRÃO,903.37
+COT-0174,Santos,Recife,1639,2947.10,Carga geral,Rodoviário,Transportadora Alfa,1424.81,1261.36,163.45,12.96,DENTRO DO PADRÃO,903.37
+COT-0175,Santos,Salvador,376,2000.30,Refrigerada,Aéreo,Transportadora Beta,1979.91,3578.75,-1598.84,-44.68,REVISAR,903.37
+COT-0176,Santos,Rio de Janeiro,574,11350.00,Carga geral,Aéreo,Transportadora Gama,3596.04,4090.84,-494.80,-12.10,DENTRO DO PADRÃO,903.37
+COT-0177,Belo Horizonte,Salvador,2089,10165.70,Refrigerada,Aéreo,Transportadora Alfa,5846.26,5502.66,343.60,6.24,DENTRO DO PADRÃO,903.37
+COT-0178,Belo Horizonte,Recife,1496,7656.40,Carga geral,Aéreo,Transportadora Gama,3871.65,4391.44,-519.79,-11.84,DENTRO DO PADRÃO,903.37
+COT-0179,Belo Horizonte,Salvador,1642,9318.30,Frágil,Rodoviário,Transportadora Gama,1767.84,1842.33,-74.49,-4.04,DENTRO DO PADRÃO,903.37
+COT-0180,Belo Horizonte,Brasília,2689,5727.00,Refrigerada,Rodoviário,Transportadora Delta,3259.01,2955.09,303.92,10.28,DENTRO DO PADRÃO,903.37
+COT-0181,Belo Horizonte,Recife,374,17901.90,Carga geral,Rodoviário,Transportadora Alfa,1241.99,1462.08,-220.09,-15.05,DENTRO DO PADRÃO,903.37
+COT-0182,Campinas,Rio de Janeiro,414,3378.90,Carga geral,Rodoviário,Transportadora Gama,580.98,452.21,128.77,28.48,DENTRO DO PADRÃO,903.37
+COT-0183,São Paulo,Goiânia,1840,5953.00,Carga geral,Rodoviário,Transportadora Delta,1904.59,2183.55,-278.96,-12.78,DENTRO DO PADRÃO,903.37
+COT-0184,São Paulo,Recife,1181,15663.40,Refrigerada,Rodoviário,Transportadora Alfa,2173.26,2467.35,-294.09,-11.92,DENTRO DO PADRÃO,903.37
+COT-0185,Belo Horizonte,Brasília,913,1535.50,Carga geral,Aéreo,Transportadora Delta,2613.37,3711.11,-1097.74,-29.58,REVISAR,903.37
+COT-0186,Campinas,Rio de Janeiro,2153,5380.60,Carga geral,Aéreo,Transportadora Gama,4586.21,5006.99,-420.78,-8.40,DENTRO DO PADRÃO,903.37
+COT-0187,Santos,Rio de Janeiro,2682,17706.80,Carga geral,Aéreo,Transportadora Gama,8473.60,6348.85,2124.75,33.47,REVISAR,903.37
+COT-0188,Campinas,Recife,807,15994.30,Refrigerada,Aéreo,Transportadora Gama,4861.28,5046.90,-185.62,-3.68,DENTRO DO PADRÃO,903.37
+COT-0189,São Paulo,Goiânia,2499,4821.30,Carga geral,Rodoviário,Transportadora Alfa,2237.77,2340.96,-103.19,-4.41,DENTRO DO PADRÃO,903.37
+COT-0190,Campinas,Recife,2572,3522.20,Carga geral,Aéreo,Transportadora Alfa,5098.06,5154.75,-56.69,-1.10,DENTRO DO PADRÃO,903.37
+COT-0191,Campinas,Salvador,2541,11808.30,Carga geral,Rodoviário,Transportadora Delta,3303.80,3061.88,241.92,7.90,DENTRO DO PADRÃO,903.37
+COT-0192,Santos,Recife,2328,1006.50,Carga geral,Rodoviário,Transportadora Gama,1719.44,1565.18,154.26,9.86,DENTRO DO PADRÃO,903.37
+COT-0193,Campinas,Salvador,390,6118.80,Carga geral,Rodoviário,Transportadora Delta,914.74,824.18,90.56,10.99,DENTRO DO PADRÃO,903.37
+COT-0194,São Paulo,Goiânia,2136,14671.50,Carga geral,Marítimo,Transportadora Beta,2102.91,2777.69,-674.78,-24.29,DENTRO DO PADRÃO,903.37
+COT-0195,São Paulo,Rio de Janeiro,860,5386.50,Frágil,Rodoviário,Transportadora Delta,2363.89,1616.22,747.67,46.26,DENTRO DO PADRÃO,903.37
+COT-0196,Belo Horizonte,Rio de Janeiro,868,1233.30,Frágil,Aéreo,Transportadora Delta,2598.94,4109.63,-1510.69,-36.76,REVISAR,903.37
+COT-0197,São Paulo,Rio de Janeiro,851,8663.30,Carga geral,Rodoviário,Transportadora Delta,1385.05,1642.72,-257.67,-15.69,DENTRO DO PADRÃO,903.37
+COT-0198,Belo Horizonte,Porto Alegre,259,16480.80,Refrigerada,Rodoviário,Transportadora Gama,1369.94,1458.10,-88.16,-6.05,DENTRO DO PADRÃO,903.37
+COT-0199,Curitiba,Porto Alegre,2249,1609.80,Carga geral,Marítimo,Transportadora Delta,1687.46,1729.62,-42.16,-2.44,DENTRO DO PADRÃO,903.37
+COT-0200,Belo Horizonte,Brasília,2624,5795.60,Frágil,Rodoviário,Transportadora Gama,2212.19,2357.55,-145.36,-6.17,DENTRO DO PADRÃO,903.37
+COT-0201,Curitiba,Rio de Janeiro,500,5311.90,Frágil,Marítimo,Transportadora Gama,926.54,687.23,239.31,34.82,DENTRO DO PADRÃO,903.37
+COT-0202,Campinas,Brasília,1881,7007.50,Frágil,Aéreo,Transportadora Alfa,4611.38,5036.40,-425.02,-8.44,DENTRO DO PADRÃO,903.37
+COT-0203,Campinas,Goiânia,2005,17420.60,Refrigerada,Aéreo,Transportadora Delta,8650.03,6632.64,2017.39,30.42,REVISAR,903.37
+COT-0204,Belo Horizonte,Porto Alegre,2781,13108.00,Carga geral,Rodoviário,Transportadora Alfa,3046.98,2944.45,102.53,3.48,DENTRO DO PADRÃO,903.37
+COT-0205,Campinas,Salvador,175,17064.40,Carga geral,Marítimo,Transportadora Gama,1062.34,931.58,130.76,14.04,DENTRO DO PADRÃO,903.37
+COT-0206,Campinas,Porto Alegre,2326,2321.80,Frágil,Rodoviário,Transportadora Beta,2281.16,2191.27,89.89,4.10,DENTRO DO PADRÃO,903.37
+COT-0207,Curitiba,Recife,145,12109.70,Refrigerada,Rodoviário,Transportadora Gama,1179.17,1222.44,-43.27,-3.54,DENTRO DO PADRÃO,903.37
+COT-0208,Santos,Porto Alegre,1123,9102.60,Refrigerada,Rodoviário,Transportadora Alfa,1596.17,1659.07,-62.90,-3.79,DENTRO DO PADRÃO,903.37
+COT-0209,Curitiba,Rio de Janeiro,1572,16160.00,Carga geral,Rodoviário,Transportadora Alfa,2367.06,2569.66,-202.60,-7.88,DENTRO DO PADRÃO,903.37
+COT-0210,Belo Horizonte,Recife,2172,7409.90,Carga geral,Aéreo,Transportadora Alfa,5558.23,5024.87,533.36,10.61,DENTRO DO PADRÃO,903.37
+COT-0211,Santos,Goiânia,2441,1402.30,Refrigerada,Marítimo,Transportadora Beta,1965.48,2201.32,-235.84,-10.71,DENTRO DO PADRÃO,903.37
+COT-0212,Santos,Goiânia,412,8306.20,Carga geral,Rodoviário,Transportadora Alfa,1014.37,797.61,216.76,27.18,DENTRO DO PADRÃO,903.37
+COT-0213,Santos,Goiânia,1898,12884.60,Carga geral,Rodoviário,Transportadora Beta,2076.47,2551.00,-474.53,-18.60,DENTRO DO PADRÃO,903.37
+COT-0214,São Paulo,Porto Alegre,2536,4395.70,Carga geral,Rodoviário,Transportadora Beta,2356.87,2300.93,55.94,2.43,DENTRO DO PADRÃO,903.37
+COT-0215,Curitiba,Recife,1276,6222.60,Carga geral,Marítimo,Transportadora Delta,1478.59,1408.12,70.47,5.00,DENTRO DO PADRÃO,903.37
+COT-0216,São Paulo,Salvador,1682,11722.30,Frágil,Rodoviário,Transportadora Beta,2458.50,2457.80,0.70,0.03,DENTRO DO PADRÃO,903.37
+COT-0217,Belo Horizonte,Salvador,782,11450.40,Frágil,Rodoviário,Transportadora Delta,1884.22,1703.00,181.22,10.64,DENTRO DO PADRÃO,903.37
+COT-0218,Campinas,Brasília,1143,12282.80,Carga geral,Rodoviário,Transportadora Gama,1608.92,1569.87,39.05,2.49,DENTRO DO PADRÃO,903.37
+COT-0219,São Paulo,Goiânia,997,5819.70,Refrigerada,Rodoviário,Transportadora Gama,1424.13,1493.34,-69.21,-4.63,DENTRO DO PADRÃO,903.37
+COT-0220,Curitiba,Salvador,543,8073.40,Carga geral,Aéreo,Transportadora Gama,2677.21,3689.99,-1012.78,-27.45,REVISAR,903.37
+COT-0221,São Paulo,Goiânia,1139,1625.80,Carga geral,Rodoviário,Transportadora Beta,1247.48,1113.14,134.34,12.07,DENTRO DO PADRÃO,903.37
+COT-0222,Curitiba,Recife,112,13904.50,Carga geral,Rodoviário,Transportadora Alfa,1023.38,1043.88,-20.50,-1.96,DENTRO DO PADRÃO,903.37
+COT-0223,Campinas,Brasília,1125,9573.00,Refrigerada,Rodoviário,Transportadora Beta,2015.32,1983.17,32.15,1.62,DENTRO DO PADRÃO,903.37
+COT-0224,Belo Horizonte,Porto Alegre,402,6249.70,Carga geral,Rodoviário,Transportadora Gama,792.93,322.85,470.08,145.61,DENTRO DO PADRÃO,903.37
+COT-0225,Curitiba,Rio de Janeiro,266,3998.40,Carga geral,Rodoviário,Transportadora Beta,649.76,639.50,10.26,1.61,DENTRO DO PADRÃO,903.37
+COT-0226,Curitiba,Recife,1812,1936.00,Refrigerada,Rodoviário,Transportadora Beta,1972.85,1995.43,-22.58,-1.13,DENTRO DO PADRÃO,903.37
+COT-0227,Campinas,Rio de Janeiro,762,8929.10,Carga geral,Rodoviário,Transportadora Beta,1360.17,1452.91,-92.74,-6.38,DENTRO DO PADRÃO,903.37
+COT-0228,Campinas,Goiânia,1014,6562.90,Refrigerada,Rodoviário,Transportadora Delta,1853.97,1953.81,-99.84,-5.11,DENTRO DO PADRÃO,903.37
+COT-0229,Campinas,Porto Alegre,865,14799.70,Refrigerada,Rodoviário,Transportadora Beta,1940.56,2193.81,-253.25,-11.54,DENTRO DO PADRÃO,903.37
+COT-0230,São Paulo,Goiânia,120,11027.60,Frágil,Marítimo,Transportadora Delta,1116.38,1195.25,-78.87,-6.60,DENTRO DO PADRÃO,903.37
+COT-0231,Belo Horizonte,Salvador,673,6699.10,Refrigerada,Marítimo,Transportadora Alfa,1347.06,851.40,495.66,58.22,DENTRO DO PADRÃO,903.37
+COT-0232,Campinas,Porto Alegre,2291,12556.20,Carga geral,Aéreo,Transportadora Alfa,5828.47,5584.30,244.17,4.37,DENTRO DO PADRÃO,903.37
+COT-0233,Campinas,Salvador,1259,8384.60,Carga geral,Rodoviário,Transportadora Gama,1505.16,1337.11,168.05,12.57,DENTRO DO PADRÃO,903.37
+COT-0234,Curitiba,Brasília,1662,8356.90,Carga geral,Aéreo,Transportadora Alfa,4798.12,4734.11,64.01,1.35,DENTRO DO PADRÃO,903.37
+COT-0235,São Paulo,Recife,2280,11671.60,Carga geral,Aéreo,Transportadora Delta,6138.45,5886.41,252.04,4.28,DENTRO DO PADRÃO,903.37
+COT-0236,São Paulo,Goiânia,1345,14948.90,Carga geral,Rodoviário,Transportadora Gama,1868.98,2138.36,-269.38,-12.60,DENTRO DO PADRÃO,903.37
+COT-0237,Curitiba,Porto Alegre,560,2840.60,Carga geral,Rodoviário,Transportadora Beta,832.52,551.20,281.32,51.04,DENTRO DO PADRÃO,903.37
+COT-0238,Santos,Recife,1316,12260.50,Frágil,Rodoviário,Transportadora Gama,1823.01,1911.41,-88.40,-4.63,DENTRO DO PADRÃO,903.37
+COT-0239,Santos,Rio de Janeiro,131,17108.80,Carga geral,Aéreo,Transportadora Beta,4344.92,4460.25,-115.33,-2.59,DENTRO DO PADRÃO,903.37
+COT-0240,Curitiba,Salvador,2058,7966.80,Carga geral,Rodoviário,Transportadora Delta,2590.09,2349.83,240.26,10.22,DENTRO DO PADRÃO,903.37

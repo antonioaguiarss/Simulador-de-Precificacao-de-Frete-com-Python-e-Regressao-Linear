@@ -1,0 +1,2 @@
+﻿peso_kg,distancia_km,tipo_carga,modal,transportadora,preco_cotado_brl,preco_esperado_brl,diferenca_brl,diferenca_pct,status,limite_alerta_brl
+2500,1200,Geral,Rodoviário,TransLog,794.07,601.57,192.5,32.0,REVISAR,1512.17
