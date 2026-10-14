@@ -74,8 +74,5 @@ Um alerta é apenas um indício para revisão. O preço pode variar por pedágio
 ## Tecnologias
 Python, pandas, NumPy, Matplotlib e scikit-learn.
 
-## Sugestão de narrativa para entrevista
-“Desenvolvi um simulador de precificação com regressão linear para estimar o preço esperado de frete a partir das características da carga e da operação. Comparei a previsão com o valor cotado, medi o erro no conjunto de teste e criei alertas para priorizar cotações fora do padrão. A ideia não é rejeitar automaticamente uma tarifa, mas direcionar a análise para casos que merecem validação.”
-
 ---
 **Aviso:** todas as cotações são fictícias e não representam preços de mercado.
